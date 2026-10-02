@@ -1,7 +1,7 @@
 # AprendiendoCSharp
 Repositorio para aprender C# (c sharp) en 2026
 
-# TikTok
+# TikTok y Facebook
 Nuestros videos con definiciones se encuentran en nuestra cuenta de [TikTok](https://www.tiktok.com/@ideas.exponenciales) y [Facebook](https://www.facebook.com/ideasexponenciales/reels/)
 
 # Pre-requisitos
