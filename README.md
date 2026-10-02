@@ -23,6 +23,8 @@ Las aplicaciones que vas a necesitar descargar en tu computadora.
 * [Visual Studio](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&passive=false&cid=2500)
 * [Microsoft SQL Server Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads#trysql)
 
+# Sigue nuestra cuenta de GitHub
+[GitHub Ideas Exponenciales](https://github.com/IdeasExponenciales) Aquí iremos publicando nuestros [repositorios](https://github.com/IdeasExponenciales?tab=repositories) con el código para que puedas utilizarlo en tus desarrollos personales.
 
 # Dudas
 Mándanos todas las dudas que tengas o problemas que no te dejen instalar el software ya sea por medio de este repositorio o en nuestra cuenta de [TikTok](https://www.tiktok.com/@ideas.exponenciales) o [Facebook](https://www.facebook.com/ideasexponenciales/reels/)
